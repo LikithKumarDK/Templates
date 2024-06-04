@@ -1,0 +1,182 @@
+/* Queries variables*/
+/* Mobile */
+$mobile: 576px;
+/* Tablet */
+$tablet: 768px;
+/* Desktop */
+$desktop: 1200px;
+
+/* Heights */
+$commonHeight: 40px;
+$userDashBoardHeight: 250px;
+$userDashboardHeightSm: 180px;
+$userDashBoardHeight-c: 350px;
+$userDashboardHeightSm-c: 280px;
+$headerLineHeight: 24px;
+$headerHeight: 34px;
+$checkboxheight: 50%;
+
+/* width */
+$sNoWidth: 60px;
+$actionEditDeleteWidth: 200px;
+$userDashBoardWidth: 500px;
+$fullWidth: 100%;
+
+$headerLetterSpacing: 0.04em;
+
+/* Transition duration */
+$transitionDuration: 0.2s;
+
+/* Fonts sizes */
+$commonFontSize: 16px;
+$dialogHeaderFontSize: 21px;
+$tableHeaderFontSize: 12px;
+$tableDataFontSize: 16px;
+$tableFrozenFontSize: 16px;
+$labelFontSize: 16px;
+$labelFontWeight: 700;
+$pageHeaderFontSize1: 21px;
+$pageHeaderFontSize2: 20px;
+$pageHeaderFontSize3: 16px;
+$footerFontSize: 16px;
+$topHeaderFontSize: 14px;
+$fileUploadFontSize: 12px;
+$userDashBoardFontSize: 25px;
+$authHeaderFontSize: 18px;
+$subHeaderFontSize: 18px;
+$commonFloatLabelFontSize: 14px;
+$detailsHeaderFontSize: 18px;
+$detailsBodyFontSize: 16px;
+$headerFontSize: 16px;
+$cardFontSize: 12px;
+
+/*Font Styles for Card*/
+$cardFontStyle: Noto Sans JP;
+$cardLineHeight: 18px;
+$cardLetterSpacing: 0.04em;
+$headerFontStyle: Noto Sans JP;
+
+/* Fonts weights */
+$commonFontWeight: 500;
+$topHeaderFontWeight: 700;
+$dialogHeaderFontWeight: 500;
+$tableHeaderFontWeight: 700;
+$tableFrozenFontWeight: 700;
+$buttonFontWeight: 700;
+$pageHeadersFontWeight: 700;
+$authHeaderFontWeight: 700;
+$detailsHeaderFontWeight: 700;
+$headerFontWeight: 500;
+
+/* Radius */
+$commonRadius: 5px;
+$headerRadius: 10px;
+
+/* Border */
+$commonBorder: 1px solid var(--primary-color);
+
+/* Padding */
+$commonPadding: 0.5rem;
+$headerPadding: 4px, 16px, 4px, 16px;
+
+/*color*/
+$customWhiteRegHoverBgColor: #2b3d5117;
+$customWhiteHoverBgColor: #2b3d51;
+
+/*color*/
+$customRegHoverBgColor: #0d4d33;
+
+$headerBgColor: #ededed;
+$headerColor: #ededed;
+
+/*Create button*/
+$createButtonBgColor: #16a34a;
+$createButtonHoverBgColor: #16a34a;
+$createButtonTextColor: #ffffff;
+$createButtonHoverTextColor: #ffff;
+
+/*Import button*/
+$importButtonBgColor: var(--primary-color);
+$importButtonHoverBgColor: var(--primary-hover-color);
+$importButtonTextColor: #ffffff;
+$importButtonHoverTextColor: #ffffff;
+
+/*Export button*/
+$exportButtonBgColor: var(--primary-color);
+$exportButtonHoverBgColor: var(--primary-hover-color);
+$exportButtonTextColor: #ffffff;
+$exportButtonHoverTextColor: #ffffff;
+
+/*Search button*/
+$searchButtonBgColor: var(--search-color);
+$searchButtonHoverBgColor: var(--search-hover-color);
+$searchButtonTextColor: var(--search-text-color);
+$searchButtonHoverTextColor: var(--search-hover-text);
+
+/*Back or cancel button*/
+$backButtonBgColor: var(--back-color);
+$backButtonHoverBgColor: var(--back-hover-color);
+$backButtonTextColor: var(--back-text);
+$backButtonHoverTextColor: var(--back-hover-text);
+
+/* Update,Save or submit button*/
+$updateButtonBgColor: var(--update-color);
+$updateButtonHoverBgColor: var(--update-hover-color);
+$updateButtonTextColor: var(--update-text-color);
+$updateButtonHoverTextColor: var(--update-hover-text);
+
+/*Edit action button*/
+$editButtonBgColor: var(--edit-color);
+$editButtonHoverBgColor: var(--edit-hover-color);
+$editButtonTextColor: var(--edit-text);
+$editButtonHoverTextColor: var(--edit-hover-text);
+
+/*Delete action button*/
+$deleteButtonBgColor: var(--delete-color);
+$deleteButtonHoverBgColor: var(--delete-hover-color);
+$deleteButtonTextColor: var(--delete-text);
+$deleteButtonHoverTextColor: var(--delete-hover-text);
+
+/*Delete action user button*/
+$deleteButtonBgColorUser: #ffff;
+$deleteButtonHoverBgColorUser: #ffeaed;
+$deleteButtonTextColorUser: #c70a18;
+$deleteButtonHoverTextColorUser: #c70a18;
+
+/*Delete -Ok button*/
+$delOkButtonBgColor: #d31720;
+$delOkButtonHoverBgColor: #e72932;
+$delOkButtonTextColor: #fff;
+$delOkButtonHoverTextColor: #fff;
+
+/* Staff back to top or previous screen button*/
+$backStaffButtonBgColor: var(--primary-color);
+$backStaffButtonHoverBgColor: #ffff;
+$backStaffButtonTextColor: #ffff;
+$backStaffButtonHoverTextColor: #000000;
+
+/* user primary button */
+$primaryButtonTextColor: #ffff;
+$primaryButtonHoverTextColor: #ffff;
+$primaryButtonBgColor: var(--primary-color);
+$primaryButtonHoverBgColor: var(--primary-hover-color);
+
+/*Status Buttons */
+$blueStatusColor: #32beea;
+$orangeStatusColor: #ea7432;
+$goldStatusColor: #eac232;
+$aquaStatusColor: #2dcc9c;
+$warningStatusColor: #ff3100;
+$statusBackgroundColor: #ffffff;
+
+/*Register Buttons*/
+$registerButtonBgColor: var(--register-color);
+$registerButtonTextColor: var(--register-text);
+$registerButtonHoverBgColor: var(--register-hover-color);
+$registerButtonHoverTextColor: var(--register-hover-text);
+
+/*Required Buttons*/
+$requiredButtonBgColor: var(--required-color);
+$requiredButtonTextColor: var(--required-text);
+$requiredButtonHoverBgColor: var(--required-hover-color);
+$requiredButtonHoverTextColor: var(--required-hover-text);

@@ -1,0 +1,40 @@
+.header_class {
+  background: $headerBgColor;
+  font-size: $headerFontSize;
+  font-weight: $headerFontWeight;
+  line-height: $headerLineHeight;
+  letter-spacing: $headerLetterSpacing;
+  height: $headerHeight;
+  padding: $headerPadding;
+
+  .header-headerText {
+    font-family: $headerFontStyle;
+    font-size: $headerFontSize;
+    font-weight: $headerFontWeight;
+    line-height: $headerLineHeight;
+    letter-spacing: $headerLetterSpacing;
+    text-align: left;
+  }
+}
+
+.header-button {
+  width: auto;
+  height: $headerHeight;
+  border: 1px;
+  padding: 4px, 8px, 4px, 8px;
+  gap: 6px;
+}
+
+.defaultContentHeaderStatusButton {
+  height: 25px;
+  border-radius: $commonRadius;
+
+  .p-button-icon {
+    font-size: $commonFontSize;
+  }
+
+  .p-button-label {
+    font-weight: $buttonFontWeight;
+    font-size: $commonFontSize;
+  }
+}
