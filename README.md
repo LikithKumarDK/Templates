@@ -22,9 +22,9 @@ Here are the available templates in this repository:
 
 - Javascript
   - NextJS
-    - [Sakai/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/APP-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
-    - [Sakai/App-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/PAGE-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
+    - [Sakai/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/PAGE-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
+    - [Sakai/App-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/APP-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
 
 - Typescript
-  - NextJS
-    - [Sakai/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/PAGE-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
+  -- NextJS
+    - [Sakai/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/TYPESCRIPT/NEXT-JS/PAGE-ROUTER/TEMPLATES/SAKAI/V-1)
