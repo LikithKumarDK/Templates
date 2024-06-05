@@ -25,10 +25,12 @@ Here are the available templates in this repository:
     - [Sakai-Admin Template(Web)/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/PAGE-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
     - [Sakai-Admin Template(Web)/App-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/APP-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
  
-<!-- - **Typescript**
+<!-- 
+- **Typescript**
   - **NextJS**
-    - [Sakai-Admin Template(Web)/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/TYPESCRIPT/NEXT-JS/PAGE-ROUTER/TEMPLATES/SAKAI/V-1)  -->
-    
+    - [Sakai-Admin Template(Web)/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/TYPESCRIPT/NEXT-JS/PAGE-ROUTER/TEMPLATES/SAKAI/V-1)  
+-->
+
 ## Usage
 
 [Instructions on how to use the templates]
