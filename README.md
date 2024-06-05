@@ -15,4 +15,4 @@ Welcome to the Templates project! This repository contains a collection of templ
 To get started with using the templates, you can clone this repository to your local machine using the following command:
 
 ```bash
-[git clone https://github.com/yourusername/templates.git](https://github.com/LikithKumarDK/Templates.git)
+https://github.com/LikithKumarDK/Templates.git
