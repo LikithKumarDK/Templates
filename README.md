@@ -6,7 +6,6 @@ Welcome to the Templates project! This repository contains a collection of templ
 
 - [Getting Started](#getting-started)
 - [Available Templates](#available-templates)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -31,13 +30,9 @@ Here are the available templates in this repository:
     - [Sakai-Admin Template(Web)/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/TYPESCRIPT/NEXT-JS/PAGE-ROUTER/TEMPLATES/SAKAI/V-1)  
 -->
 
-## Usage
-
-[Instructions on how to use the templates]
-
 ## Contributing
 
-[Instructions on how to contribute to the project]
+I would love your feedback on my project - please feel free to make a pull request or submit an issue if you find any. Thanks for checking out my project!
 
 ## License
 
