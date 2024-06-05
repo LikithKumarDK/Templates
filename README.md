@@ -16,11 +16,13 @@ To get started with using the templates, you can clone this repository to your l
 
 ```bash
 https://github.com/LikithKumarDK/Templates.git
-
+```
 ## Available Templates
 Here are the available templates in this repository:
 
-Python
-Basic Script
-Flask Web Application
-Data Analysis with Pandas
+- Javascript
+  - Sakai/Page-Router
+  - Sakai/App-Router
+
+- Typescript
+  - Sakai/Page-Router
