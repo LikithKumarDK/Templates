@@ -21,8 +21,10 @@ https://github.com/LikithKumarDK/Templates.git
 Here are the available templates in this repository:
 
 - Javascript
-  - Sakai/Page-Router
-  - Sakai/App-Router
+  - NextJS
+    - [Sakai/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/APP-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
+    - [Sakai/App-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/PAGE-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
 
 - Typescript
-  - Sakai/Page-Router
+  - NextJS
+    - [Sakai/Page-Router](https://github.com/LikithKumarDK/Templates/tree/master/JAVASCRIPT/NEXT-JS/PAGE-ROUTER/FEATURED_TEMPLATES/SAKAI/V-1)
